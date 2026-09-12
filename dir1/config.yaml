@@ -1,3 +1,5 @@
 name: demo-app
 version: 0.1
 debug: true
+
+# UI theme
